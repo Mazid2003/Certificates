@@ -20,34 +20,41 @@ I have categorized my certifications based on different domains:
 
 📜 Oracle Cloud Infrastructure Generative AI
 
+🔹 Cisco
+
+📜 PCAP - Programming Essentials in Python
+
+🔹 AWS Academy
+
+📜 AWS Academy Graduate - AWS Academy Cloud Architecting
+
+📜 AWS Academy Graduate - AWS Academy Cloud Foundations
+
+📜 AWS Academy Graduate - AWS Academy Data Engineering
+
+🔹 NPTEL
+
+📜 Software Testing by IIIT Bengaluru
+
 🔹 Great Learning
 
 📜 Introduction to Databases and SQL
 
 📜 Java Programming
 
-🔹 AWS Academy Graduate
+🔹 EDX Courses
 
-📜 AWS Academy Cloud Architecting
+📜 DS0720EN: Data Science and Machine Learning- Capstone Project by IBM
 
-📜 AWS Academy Cloud Foundations
-
-📜 AWS Academy Data Engineering
-
-🔹 NPTEL
-
-📜 Software Testing by IIIT Bengaluru
-
-
-📜 Salesforce Developer Certification
-📌 How to View?
-To view any certificate, simply click on the links above or navigate through the certificates directory.
+📜 ML 101: Machine Learning at the Edge: A Practical Introduction from Arm by arm Education
 
 🏅 Why These Certifications Matter?
 Each certification represents my dedication to continuous learning, skill development, and staying up-to-date with industry trends. These courses have helped me build expertise in real-world projects and problem-solving.
 
 🚀 Connect With Me
+
 If you'd like to know more about my work, feel free to check out:
-📂 My Portfolio
-💼 LinkedIn
-📧 Email
+
+📂 http://mazidmohammad.pythonanywhere.com
+
+💼 www.linkedin.com/in/mohammadmazid
