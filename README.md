@@ -6,25 +6,25 @@ Welcome to my Certificates Repository! This repository contains all the certific
 
 This repository serves as a portfolio of my professional learning journey, demonstrating my expertise in different technologies and domains. Each certificate is stored as a PDF or image file in this repository.
 
-📂 Categories
+**📂 Categories**
 
 I have categorized my certifications based on different domains:
 
-🔹 Microsoft
+**🔹 Microsoft**
 
 📜 AZ-900: Azure fundamentals by Microsoft.
 
 📜 AZ-204: Azure Developer Associate y Microsoft.
 
-🔹 Oracle
+**🔹 Oracle**
 
 📜 Oracle Cloud Infrastructure Generative AI
 
-🔹 Cisco
+**🔹 Cisco**
 
 📜 PCAP - Programming Essentials in Python
 
-🔹 AWS Academy
+**🔹 AWS Academy**
 
 📜 AWS Academy Graduate - AWS Academy Cloud Architecting
 
@@ -32,17 +32,21 @@ I have categorized my certifications based on different domains:
 
 📜 AWS Academy Graduate - AWS Academy Data Engineering
 
-🔹 NPTEL
+**🔹 MongoDB, Inc**
+
+📜 MongoDB Node.js Developer path for SmartBridge
+
+**🔹 NPTEL**
 
 📜 Software Testing by IIIT Bengaluru
 
-🔹 Great Learning
+**🔹 Great Learning**
 
 📜 Introduction to Databases and SQL
 
 📜 Java Programming
 
-🔹 EDX Courses
+**🔹 EDX Courses**
 
 📜 DS0720EN: Data Science and Machine Learning- Capstone Project by IBM
 
